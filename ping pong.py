@@ -39,9 +39,9 @@ finish = False
 clock = time.Clock()
 FPS = 60
 
-rocket1 = Player('racket.png', 30, 200, 4, 50, 150)
-rocket2 = Player('racket.png', 5200, 200, 4, 50, 150)
-ball = GameSprite('tenis_ball.png', 200, 200, 4, 50, 50)
+rocket1 = Player('racket.png.docx', 30, 200, 4, 50, 150)
+rocket2 = Player('racket.png.docx', 5200, 200, 4, 50, 150)
+ball = GameSprite('tenis_ball.png.docx', 200, 200, 4, 50, 50)
 
 font.init()
 font = font.font(None, 35)
